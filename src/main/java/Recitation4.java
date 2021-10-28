@@ -1,7 +1,7 @@
 
 /**
- * SkillBuilder5 is a class for completing the Skill
- * Builder 5 assignment in Java.
+ * Recitation 4 is a class for completing the
+ * Recitation 4 assignment in Java.
  *
  * @author <You>
  * @version 1.0
