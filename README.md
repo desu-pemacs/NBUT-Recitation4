@@ -53,7 +53,7 @@ Click the link below to watch the video that shows how to draw an FSM in PowerPo
 <a href="https://delawarestateuniversity-my.sharepoint.com/:v:/g/personal/mrasamny_desu_edu/EbMTuLeUZs1Di7VlgmAkz_sBg_8JuFAQBPiDEZi5Zvl_bQ?download=1">Drawing FSM</a>
 
 ## Implement Method
-Implement the finite-state machine designed above in the SkillBuilder4 class method called
+Implement the finite-state machine designed above in the Recitation4 class method called
 <p style="font-family: 'courier new', courier;background-color:#f5f5f5;padding:10px 10px 10px 10px;border:solid 1px #dddddd;color:blue;font-weight:bold;">
 public static String findTYPattern(String s)
 </p>
@@ -63,7 +63,7 @@ The function returns the first substring that starts with a <span style="color:r
 otherwise it returns an empty string.  For example, 
 
 ```java
-SkillBuilder4.findTYPattern("Hello, my name is Tom Brady and I am thirsty")
+Recitation4.findTYPattern("Hello, my name is Tom Brady and I am thirsty")
 ```
 
 should return the string <span style="color:red;font-family: 'courier new', courier;font-weight:bold;">Tom Brady</span>.
